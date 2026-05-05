@@ -1,0 +1,15 @@
+{
+  "ownerId": "customized-zncumac",
+  "slug": "vat-refund-employment-literature-review",
+  "version": "4.0.0",
+  "publishedAt": 1746336000000,
+  "baseVersion": "3.1.0",
+  "originalRepository": "https://clawhub.ai/stephenlzc/ai-powered-literature-review-skills",
+  "customizations": [
+    "添加了增值税留抵退税与就业效应专属研究背景",
+    "更新了2025-2026年最新就业数据",
+    "扩展了政策沿革表（2023-2025年）",
+    "补充了近三年新文献（2023-2024年）",
+    "新增中文文献引用格式扩展"
+  ]
+}
